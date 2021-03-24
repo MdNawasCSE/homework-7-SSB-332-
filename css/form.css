@@ -1,0 +1,41 @@
+body{
+	background-image: url(../image/snow2.jpg);
+}
+
+.wrapper{
+    color: black;
+	width: 60%;
+	margin: auto;
+	border: 5px solid black;
+}
+
+label{
+	overflow: hidden;
+	font-size: 20px;
+}
+
+.first_name, .last_name, .email, .password{
+    overflow: hidden;
+    width:90%;
+    height: 25px;
+    padding: 10px;
+    font-size: 18px;
+
+}
+
+.message
+{
+	font-size: 18px;
+	padding: 10px;
+}
+
+table{
+	width:50%;
+	border:1px solid black; 
+}
+
+th,tr,td{
+	font-size: 20px;
+	text-align: center;
+	border:1px solid black;
+}

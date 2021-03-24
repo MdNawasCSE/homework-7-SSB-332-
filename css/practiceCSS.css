@@ -1,0 +1,19 @@
+body{
+	background-color: lightblue;
+	background-image: url(../image/snow.jpg);
+	background-repeat: no-repeat;
+	background-position: right top;
+	 	 
+}
+h1{
+color: white;
+text-align:center;
+background-image: url(../image/city.jpg);
+}
+/* Using brush script font to make it Better */
+p{
+	font-family: brush script mt;
+	border: 5px solid black;
+	margin-right: 50px;
+
+}

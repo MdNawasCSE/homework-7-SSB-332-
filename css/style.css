@@ -1,0 +1,34 @@
+.form{
+	height: 100px;
+	background-image: url(../image/city.jpg);
+}
+
+.header{
+	min-height: 150px;
+	background-color: lightblue;
+	 
+}
+
+.wrapper{
+	overflow: hidden;
+	border:10px solid black;
+}
+.blue{
+	float: left;
+    width: 60%;
+	height: 450px;
+    background-color: blue;
+}
+
+.green{
+	float: right;
+	width:40%;
+	height: 450px;
+	background-color: green;
+}
+
+.footer{
+	min-height: 10px;
+	height: 150px;
+	background-color: pink;
+}
